@@ -1,0 +1,19 @@
+{
+  "name": "todd-anderson-bdd-practice",
+  "version": "1.0.0",
+  "description": "Practice project to try Todd Anderson's BDD setup http://custardbelly.com/blog/blog-posts/2014/01/08/bdd-in-js-cucumberjs/index.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdctenga/todd-anderson-bdd-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdctenga/todd-anderson-bdd-practice/issues"
+  },
+  "homepage": "https://github.com/mdctenga/todd-anderson-bdd-practice"
+}
