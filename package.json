@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/mdctenga/todd-anderson-bdd-practice/issues"
   },
-  "homepage": "https://github.com/mdctenga/todd-anderson-bdd-practice"
+  "homepage": "https://github.com/mdctenga/todd-anderson-bdd-practice",
+  "devDependencies": {
+    "cucumber": "^0.9.2",
+    "install": "^0.4.1",
+    "npm": "^3.5.2"
+  }
 }
