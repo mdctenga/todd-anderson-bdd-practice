@@ -1,10 +1,12 @@
 'use strict';
 
-module.exports = function function_name (argument) {
+var GroceryList = require(process.cwd() + '/script/model/grocery-list');
+
+module.exports = function () {
 
   this.Given(/^I have an empty grocery list$/, function (callback) {
-    // Write code here that turns the phrase above into concrete actions
-    callback.pending();
+    myList = GroceryList.create();
+    callback();
   });
 
   this.When(/^I add an item to the list$/, function (callback) {
